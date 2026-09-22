@@ -1,0 +1,6 @@
+{
+  "name": "TRID",
+  "description": "A minimalist web media player with customizable playlists, audio and video equalizer settings, network streaming, subtitle synchronization, and hardware acceleration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
